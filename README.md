@@ -5,3 +5,6 @@ Aquí probando con GitHub a ver que tal; no sé aún si se escribe Github o GitH
 vamos a ver que tal...
 
 Ha pasado un mes desde que abrí mi cuetan GitHub y bueno poco a poco voy aprendiendo; Richard del futuro debes de estár orgulloso de mí de lo que eres ahora:::
+
+
+Response from Richard del Futuro: "Muévete que nadie va a esperar por ti"
