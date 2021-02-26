@@ -1,10 +1,11 @@
 # hello-world
 This is my first repository
 
-Aquí probando con GitHub a ver que tal; no sé aún si se escribe Github o GitHub, como estoy comenzando, no tengo ni idea
-vamos a ver que tal...
+*Primera línea que hice github* Aquí probando con GitHub a ver que tal; no sé aún si se escribe Github o GitHub, como estoy comenzando, no tengo ni idea... vamos a ver que tal...
 
-Ha pasado un mes desde que abrí mi cuetan GitHub y bueno poco a poco voy aprendiendo; Richard del futuro debes de estár orgulloso de mí de lo que eres ahora:::
+*"La ignorancia es una página en blanco sobre la que podemos escribir; el error, por el contrario, es una página ya garabateada que primeramente hay que borrar."* - Charles Caleb Colton (1780-1832) Clérigo, escritor y coleccionista inglés. 
 
 
-Response from Richard del Futuro: "Muévete que nadie va a esperar por ti"
+## Índice
+
+**Próximamente**
