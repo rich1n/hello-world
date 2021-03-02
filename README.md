@@ -8,4 +8,9 @@ This is my first repository
 
 ## Índice
 
+[Recursos UX/UI En Inglés](https://github.com/rich1n/hello-world/blob/master/Recursos-UX-UI-english.md)<br>
+[Recursos UX/UI En Español](https://github.com/rich1n/hello-world/blob/master/Recursos-UX-UI-español.md)
+
+
+
 **Próximamente**
