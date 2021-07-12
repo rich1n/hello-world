@@ -145,141 +145,20 @@ footer p {
 /*ARROW LINK*/
 #arrow {
   position: relative;
-  width: 30%;
   margin-top: auto;
   text-align: center;
   margin-bottom: 50px;
   display: flex;
 }
 
-#arrow p {
-  margin-right: 30px;
-}
+
 
 #arrow a {
   color: white;
 }
 
 .copy {
-  color: red;
+
   font-family: Arial, Helvetica, sans-serif;
   font-size: small;
-}
-
-/*CONTENT*/
-.container {
-  /*sets up flexbox*/
-  display: flex;
-  flex-direction: column;
-}
-
-.row {
-  display: flex;
-}
-
-.white {
-  background: white;
-}
-
-.side-content {
-  flex: 0 0 16.6%;
-}
-
-.main-content {
-  flex: 0 0 66.6%;
-  margin-top: 2rem;
-  margin-bottom: 3rem;
-}
-
-.side-content-sm {
-  flex: 0 0 10%;
-}
-
-.main-content-lg {
-  flex: 0 0 80%;
-  margin-top: 2rem;
-  margin-bottom: 3rem;
-}
-
-.box-shadow {
-  -webkit-box-shadow: 0px 0px 1px 0px rgba(0,0,0,0.75);
-  -moz-box-shadow: 0px 0px 1px 0px rgba(0,0,0,0.75);
-  box-shadow: 0px 0px 1px 0px rgba(0,0,0,0.75);
-}
-
-h2 {
-  font-weight: 200;
-  font-size: 2rem;
-  color: #31b0d5;
-  text-transform: uppercase;
-  text-align: center;
-}
-
-.content-body {
-  line-height: 1.5;
-  color: rgba(0,0,0,.75);
-}
-
-/*ORIGINS*/
-.ul-skills {
-  text-align: center;
-  padding-left: 0;
-}
-
-.li-skills {
-  display: inline-block;
-  margin: 7px;
-  padding: 5px 10px;
-  color: white;
-  background: #31b0d5;
-  list-style: none;
-  cursor: default;
-  font-size: 1.2em;
-}
-
-/*CONTACT*/
-.blue {
-  background: #3498db;
-  text-align: center;
-}
-
-.contact {
-  max-width: 500px;
-  margin: 0 auto;
-}
-
-.contact input, .contact textarea {
-  display: block;
-  width: 100%;
-  padding: 10px;
-  border-radius: 4px;
-  border: none;
-  margin-bottom: 10px;
-  background: #1d6fa5;
-  color: #fff;
-  -webkit-transition: .5s ease all;
-  transition: .5s ease all;
-}
-
-.contact textarea {
-  height: 150px;
-  resize: none;
-}
-
-.contact button {
-  display: block;
-  width: 100%;
-  background: #fff;
-  border-radius: 4px;
-  padding: 5px 10px;
-  border: none;
-  color: #3498db;
-  font-weight: 700;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
-  -webkit-transition: .5s ease all;
-  transition: .5s ease all;
-}
-
-.white-text {
-  color: white;
 }
