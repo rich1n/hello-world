@@ -14,3 +14,6 @@ This is my first repository
 
 
 **Próximamente**
+
+HOSTED BY NETLIFY
+https://rich1n.netlify.app/
